@@ -1,2 +1,2 @@
 # python_scripts
-Some python scripts
+More found there: https://usebetterlinux.blogspot.com/2019/
