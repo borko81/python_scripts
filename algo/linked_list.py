@@ -1,3 +1,6 @@
+'''Try to implement linked list'''
+
+
 class Node:
 
     def __init__(self, data):
@@ -44,11 +47,30 @@ class LinkedList:
             print(actual_node.data)
             actual_node = actual_node.nextNode
 
+    def remove(self, data):
+        assert self.head is not None
+
+        actual_node = self.head
+        previous_node = None
+
+        while actual_node is not None and actual_node.data != data:
+            previous_node = actual_node
+            actual_node = actual_node.nextNode
+
+        if actual_node is None:
+            return
+
+        if previous_node is None:
+            self.head = actual_node.nextNode
+        else:
+            previous_node.nextNode = actual_node.nextNode
+
 
 if __name__ == '__main__':
     test = LinkedList()
-    test.insert_start(1)
-    test.insert_start(5)
-    test.insert_start(2)
-    print(test.size_of_list)
-    test.traverse()
+    # test.insert_start(1)
+    # test.insert_start(5)
+    # test.insert_start(2)
+    # print(test.size_of_list)
+    # test.traverse()
+    print(test.remove(1))
