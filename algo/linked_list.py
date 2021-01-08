@@ -32,8 +32,23 @@ class LinkedList:
 
         actual_node.nextNode = new_node
 
+    def size_of_list(self):
+        '''Return size of list'''
+        return self.numOfNodes
+
+    def traverse(self):
+        '''Jump to list, show item'''
+        actual_node = self.head
+
+        while actual_node is not None:
+            print(actual_node.data)
+            actual_node = actual_node.nextNode
+
 
 if __name__ == '__main__':
     test = LinkedList()
     test.insert_start(1)
-
+    test.insert_start(5)
+    test.insert_start(2)
+    print(test.size_of_list)
+    test.traverse()
