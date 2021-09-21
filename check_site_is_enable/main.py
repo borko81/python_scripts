@@ -1,26 +1,30 @@
 # Import modues
+
 import requests                 # Outside module, need to isntall :pip install requests !!!!!!!!!!!!!!!!
 from typing import List         # Typehinting
-from datetime import datetime   # Data for message
 import time                     # For sleep function
 import threading                # For make threading
 import random                   # generate random sleep
-# Use for email functionality
-import smtplib
+import smtplib                  # For email
 
 # Hard code param is here
+
 # Email credential
-# unreal
-gmail_user = 'user'
+# hint unreal
+gmail_user = 'testuser@gmail.com'
 gmail_password = 'password'
 
 # List with addresses
 URLS_LIST = {
     'testing': {
-        'url': 'http://127.0.0.1:8000/todos/check/', 'responsibles': ['forone@abv.bg'], 'bound': 0
+        'url': 'http://127.0.0.1:8000/todos/check/',
+        'responsibles': ['forone@abv.bg', 'email_one0@abv.bg'],
+        'bound': 0
     },
     'productions': {
-        'url': 'http://127.0.0.1:8000/prod/todos/check/', 'responsibles': ['korea60@abv.bg', 'b_stoilov@abv.bg'], 'bound': 0
+        'url': 'http://127.0.0.1:8000/prod/todos/check/',
+        'responsibles': ['email_one0@abv.bg', 'email_two@abv.bg'],
+        'bound': 0
     }
 }
 
@@ -46,6 +50,8 @@ def send_email(list_with_users, server, message):
         # server.starttls()
 
         # For 465 use this
+
+        # Print's use for test email connect, comment when not need any more.
         server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
         server.ehlo()
         print('That is good, connection is ok')
@@ -60,7 +66,7 @@ def send_email(list_with_users, server, message):
 
 class GenerateData:
     """
-        Generata data from URLS_LIST
+        Generate data from URLS_LIST
     """
     bound: int = 0
 
@@ -89,14 +95,12 @@ class CheckSiteEnable:
 
     def message_when_site_is_down(self):
         """ Generat emessage to user """
-        print(self.data.show_response_people)
-        print(self.data.show_url)
         send_email(self.data.show_response_people, self.data.show_url, f'Server {self.data.show_url} looked be down')
 
-    def check_site_is_down(self):
+    def check_site_is_down(self) -> bool:
         """
             Check site is down or not,
-            cikle spins while refused <= counter or get success result
+            cykle spins while refused <= counter or get success result
         """
         site = ''
         counter = 0
@@ -116,7 +120,7 @@ class CheckSiteEnable:
         return str(self.data)
 
 
-def all_in_one(check: CheckSiteEnable):
+def all_in_one(check: CheckSiteEnable) -> None:
     """
         Black magic, all in one,
         change status in URLS_LIST, to prevent spam user get already seen message's
@@ -145,10 +149,10 @@ def main():
         check = CheckSiteEnable(data)
         t_num = threading.Thread(target=all_in_one, args=(check,))
         t_num.start()
-        t_num.join()
+        # t_num.join()
 
 
 if __name__ == '__main__':
     while True:
         main()
-        time.sleep(random.randrange(60, 100))
+        time.sleep(random.randrange(60, 80))
