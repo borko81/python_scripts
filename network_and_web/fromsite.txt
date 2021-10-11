@@ -1,0 +1,139 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
+<title>UnrealSoft &bull; Начало</title>
+<meta name="keywords" content="UnrealSoft, Software, Hardware, CRM, ERP, FourSeasons, Download, DDS, Elta, Datecs, Zeka, Elit, ISL, Hotel, Restaurant, Dance, Club, Pub, ДДС, безплатен, хотел, склад, магазин, супермаркет, ресторант, бар, клуб, денс клуб, дискотека, пиано бар, кръчма, паркинг, информационна система, хотелски софтуер" />
+<meta name="copyright" content="Copyright (c) 2008 UnrealSoft" />
+<META name="author" content="UnrealSoft" />
+<meta name="owner" content="UnrealSoft" />
+<meta name="verify-v1" content="TmJTu01AjefnV0dGxVm9Ar/w8/gvTJoBJAjDdcxjfhk=" />
+<meta name="verify-v1" content="qTeVMleYK9Wyhpso4q2o1XViYsG/cEn+JwTpTCJ62kk=" />
+<meta name="verify-v1" content="R8hi550RFQTgdNJ5FxjAjrsu1Ki1yg1gPFltMB0iVT8=" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link href="default.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="highslide/highslide.js"></script>
+<script src="jquery-1.5.min.js"></script> 
+<link rel="stylesheet" type="text/css" href="highslide/highslide.css" />
+
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+<link rel="apple-touch-icon" sizes="72x72"   href="/apple-touch-icon-72.png" />
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180.png" />
+<link rel="icon" sizes="180x180" href="/apple-touch-icon-180.png">
+</head>
+
+<body>
+<div id="container">
+  
+  <div id="header">
+    <div id="site_title"><img src="/images/unrealsoft.png" width="194" height="40"/><b>Unrealsoft</b><br>
+	Софтуерни системи за хотелски и търговски комплекси</div>
+<form action="http://www.unrealsoft.bg/gsearch.php" id="cse-search-box">
+  <div id="search_box">
+    <input type="hidden" name="cx" value="partner-pub-5186942288067412:guo7f4-7jfz" />
+    <input type="hidden" name="cof" value="FORID:10" />
+    <input type="hidden" name="ie" value="windows-1251" />
+    <input type="text" name="q" size="19" class="search_input"/>
+    <input type="submit" name="sa" value="Търси" class="search_button"/>
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=bg"></script>
+
+    <div class="menu">
+      <ul>
+        <li><a class="current" href="/">Начало</a></li>
+        <li><a href="/products/">Продукти</a></li>
+        <li><a href="/about.php">За нас</a></li>
+        <li><a href="/contacts.php">Контакти</a></li>
+        <li><a href="/jobs.php">Работа</a></li>
+        <li><a href="/download/">Download</a></li>
+        <li><a href="/updates/">Нови версии</a></li>
+      </ul>
+    </div>
+
+  </div>
+	
+    <div id="header_pic" style="background-image: url(/images/slogan_bar.jpg);">
+      <div id="slogan"><h1>системи за управление на:</h1>
+        <ul>
+          <ul>
+            <li id="li1" ><a id="a1" href="/products/fourseasons/">хотелски комплекс</a></li>
+            <li id="li2" class="active"><a id="a2" class="active" href="/products/sale/">ресторант и бар</a></li>
+            <li id="li6" ><a id="a6" href="/products/multipass/">контрол на достъп</a></li>
+            <li id="li8" ><a id="a8" href="/products/ticksys/">автобусни превози</a></li>
+          </ul>
+          <ul>
+            <li id="li3" ><a id="a3" href="/products/aton/?1">супермаркет и магазин</a></li>
+            <li id="li4" ><a id="a4" href="/products/aton/?2">разносна търговия</a></li>
+            <li id="li5" ><a id="a5" href="/products/aton/?3">складова база</a></li>
+            <li id="li7" ><a id="a7" href="/products/crm/">CRM и ERP</a></li>
+          </ul>
+        </ul>
+     </div>
+  </div>
+  <div id="content">
+  <div id="left" style="width:555px;"> 
+  <div id="inf1" style="display:none;"><a href="/products/fourseasons/"><img src="/images/box-4s_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>FourSeasons</h1><h3>Интегрирана компютърна система за управление на хотелски и търговски комплекси</h3><p>Ефективното управление на хотелски комплекс изисква постоянна обработка на потока от разностранна първична информация и използването и в синтезиран вид от управлението на фирмата. <a href="/products/fourseasons/">още...</a></p></div><div id="inf2" ><a href="/products/sale/"><img src="/images/box-sale_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>TouchSale</h1><h3>Система за управление на ресторант и бар</h3><p>Със своята скорост, прецизност и аналитичност системата TouchSale е основен инструмент за управлението на ресторантски комплекс. Работата със сензорен дисплей (TouchScreen) и/или клавиатура увеличава скоростта на въвеждане на данните и ускорява обслужването на клиентите. <a href="/products/sale/">още...</a></p></div><div id="inf3" style="display:none;"><a href="/products/aton/?1"><img src="/images/box-aton_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>Aton</h1><h3>Система за супермаркет и магазин</h3><p>Атон има специални инструменти за работа в супермаркети и магазини: TouchScreen режим, управление на специализирани клавиатури, везни, четци и друга периферна техника. Вградени модули за печат на етикети и рекламни табели. Работа с търговски промоции по часове и/или дни. <a href="/products/aton/?1">още...</a></p></div><div id="inf4" style="display:none;"><a href="/products/aton/?2"><img src="/images/box-aton_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>Aton</h1><h3>Система за разносна търговия</h3><p>Атон работи с периферна техника и специализирани модули за управление на разносна търговия: мобилни терминали, мобилни принтери. Мобилното работно място може да работи в онлайн режим на поръчки и сметки, които се изпращат автоматично чрез мобилен интернет до централния офис. <a href="/products/aton/?2">още...</a></p></div><div id="inf5" style="display:none;"><a href="/products/aton/?3"><img src="/images/box-aton_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>Aton</h1><h3>Система за склад</h3><p>Атон управлява централизирано и отдалечено неограничен брой складове и складови бази. Борави с индивидуални ценови листа за продажби спрямо различни клиенти. Поддържа онлайн връзка между обектите. Има възможност за работа както в локална мрежа, така и с база разположена на интернет сървър. <a href="/products/aton/?3">още...</a></p></div><div id="inf6" style="display:none;"><a href="/products/multipass/"><img src="/images/box-none_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>MultiPass</h1><h3>Система за контрол на достъп</h3><p>Осигуряване на достъп до работно място на служителите. Създаване и следене на графици и работно време. Оторизиране на достъпа чрез карти или пръстови отпечатъци. Управление на брави, турникети и бариери. <a href="/products/multipass">още...</a></p></div><div id="inf7" style="display:none;"><a href="/products/crm/"><img src="/images/box-none_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>CRM</h1><h3>Вътрешно фирмена организация и отношения с клиенти</h3><p>Да (о)познаваш клиента си - макар и просто като твърдение, това изисква промяна в цялата организация на компанията – от горе до долу, защото клиентът на нашето съвремие е все по-информиран и по-взискателен. <a href="/products/crm">още...</a></p></div><div id="inf8" style="display:none;"><a href="/products/ticksys/"><img src="/images/box-ticksys_small.png" align="right" style="margin:25px 0px 0px 15px"/></a><h1>TickSys</h1><h3>Система за управление на автобусни превози и билетен контрол</h3><p>Цялостна системата за управление на фирма за автобусни превози. Работи на централен сървър в интернет с обща база данни за всички модули. Достъпът до сървъра е ограничен само за оторизирани потребители. <a href="/products/ticksys">още...</a></p></div>  
+  </div>
+  
+<script language="javascript" src="slogan.js"></script>
+<script language="javascript"> 
+  $(document).ready(function() {
+  g_bg();
+  var int = setInterval(function () {
+	$("#inf"+ind[active]).fadeOut(600, function () { 
+	  if (++active > 8) active = 1;
+	  $("#inf"+ind[active]).fadeIn(600, g_bg()); 
+	});
+  },10000);
+});
+ </script>	
+  
+  <div id="right" style="width:215px; ">
+    <h1>За нас</h1>
+    Системите за управление създадаваме и развиваме от 1992&nbsp;г. Разполагаме със свои офиси и дистрибуторска мрежа, обхващаща цялата страна. Стабилното си развитие и престижното място на пазара дължим както на отличните качество и функционалност на системите ни, така и на изрядната поддръжка, която осигуряваме. Ние знаем как се носи отговорност за безотказна денонощна работа на натоварени обекти, защото правим това от самото си създаване. Екипите ни за внедряване и поддръжка са взаимозаменяеми и покриват всяка точка на страната 365 дни в годината 24 часа в денонощието. Ние изграждаме и поддържаме дългогодишни партньорски взаимоотношения със своите клиенти. Сътрудничеството ни спомага за правилното и целеустремено взаимно развитие. За връзките си с тях сме разработили собствена online CRM система, за което получихме адмирации от световния лидер в сертификационните системи BUREAU VERITAS CERTIFICATION, от който през 2006-та година ни бе връчен сертификат ISO 9001-2015. <a href="about.php">още...</a><br /><br />
+
+<div align="center">
+<a href="images/prilojenie1.4.png" class="highslide" onclick="return hs.expand(this)"><img src="images/prilojenie1.4.png" width="200" height="130"></a></div>
+
+  </div>
+  
+  <div id="left_forum" style="width:555px">
+  <h1>Актуални дискусии</h1>
+<a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от alex05-08-2021 14:08:232 коментарапоследен от Pitcher31-08-2021 14:08:17" href="forums/viewtopic.php?t=4804">Известяване през gmail</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от alex24-03-2021 13:03:172 коментарапоследен от alex25-03-2021 10:03:18" href="forums/viewtopic.php?t=4801">Как се ползват новите възможности на &quot;Модификаторите&quot;</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от alex25-03-2021 09:03:12" href="forums/viewtopic.php?t=4802">Как се конфигурират и използват Комбо менюта (добавки)</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от alex20-11-2018 16:11:25" href="forums/viewtopic.php?t=4759"><img src="images/forum/smile/info.gif" align="absmiddle" border=0> Какво ново във версиите</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от alex02-09-2020 17:09:54" href="forums/viewtopic.php?t=4799">Как се прави лимит по сметка</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от alex02-09-2020 11:09:06" href="forums/viewtopic.php?t=4798">Как плащане &quot;с карта&quot; да стане с ID=2, за да излиза правилно по справките колоната &quot;Плащане с карта&quot;</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от alex02-09-2020 10:09:03" href="forums/viewtopic.php?t=4797">Меню Инструменти</a><br><a href="forums/viewforum.php?f=12"><span>Периферна техника</span></a> - <a title="нова тема от badjo05-08-2020 23:08:21" href="forums/viewtopic.php?t=4796">Баркод скенер + везна за вграждане Magellan 8400</a><br><a href="forums/viewforum.php?f=59"><span>Aton Mobile</span></a> - <a title="нова тема от morphieus29-07-2019 15:07:09" href="forums/viewtopic.php?t=4776">Преход към АтонМобайл</a><br><a href="forums/viewforum.php?f=59"><b>Aton Mobile</b></a> - <a title="тема от stoar0813-02-2020 08:02:341 коментар от stoar0817-02-2020 09:02:11" href="forums/viewtopic.php?t=4790">Проблем при печат на реквизити на ДВСК</a><br><a href="forums/viewforum.php?f=59"><span>Aton Mobile</span></a> - <a title="нова тема от morphieus09-02-2020 10:02:40" href="forums/viewtopic.php?t=4789">AtonMobile &amp; Web API версии</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от morphieus06-11-2019 17:11:18" href="forums/viewtopic.php?t=4784">Печат с по-големи букви във хедър/футър</a><br><a href="forums/viewforum.php?f=59"><span>Aton Mobile</span></a> - <a title="нова тема от morphieus18-10-2019 12:10:45" href="forums/viewtopic.php?t=4781">Nginx - .Net - Api - CentOS</a><br><a href="forums/viewforum.php?f=59"><span>Aton Mobile</span></a> - <a title="нова тема от morphieus05-08-2019 18:08:10" href="forums/viewtopic.php?t=4779">Нови версии</a><br><a href="forums/viewforum.php?f=59"><span>Aton Mobile</span></a> - <a title="нова тема от morphieus05-08-2019 18:08:53" href="forums/viewtopic.php?t=4778">Плащания</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от boris07-07-2019 22:07:262 коментарапоследен от boris29-07-2019 08:07:32" href="forums/viewtopic.php?t=4773">TouchSale2 настройки и работа.</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от detelin16-07-2019 11:07:431 коментар от alex17-07-2019 10:07:07" href="forums/viewtopic.php?t=4775">Смяна начин на плащане</a><br><a href="forums/viewforum.php?f=59"><b>Aton Mobile</b></a> - <a title="тема от morphieus18-06-2019 14:06:551 коментар от morphieus04-07-2019 23:07:00" href="forums/viewtopic.php?t=4772">AtonMobile и Ънриълсофт</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от paligire02-04-2019 11:04:102 коментарапоследен от alex04-06-2019 12:06:12" href="forums/viewtopic.php?t=4768">Натрупване към карти с % и разплащане от тях</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от boris22-05-2019 21:05:171 коментар от alex04-06-2019 12:06:17" href="forums/viewtopic.php?t=4770">Отбелязване на дадена поръчка.</a><br><a href="forums/viewforum.php?f=12"><span>Периферна техника</span></a> - <a title="нова тема от boris11-02-2019 22:02:45" href="forums/viewtopic.php?t=4763">Брак на стари устройства Датекс.</a><br><a href="forums/viewforum.php?f=37"><span>TouchSale</span></a> - <a title="нова тема от Pitcher30-01-2019 11:01:49" href="forums/viewtopic.php?t=4762">Оборот по базови цени</a><br><a href="forums/viewforum.php?f=14"><b>Общи приказки</b></a> - <a title="тема от kondev15-01-2008 15:01:399 коментарапоследен от alex23-12-2018 17:12:14" href="forums/viewtopic.php?t=2207">Покажете си нета :)</a><br><a href="forums/viewforum.php?f=12"><span>Периферна техника</span></a> - <a title="нова тема от badjo30-11-2018 17:11:08" href="forums/viewtopic.php?t=4760">Етикетни принтери Argox CP-2240 и HPRT HD100</a><br><a href="forums/viewforum.php?f=37"><b>TouchSale</b></a> - <a title="тема от boris12-11-2018 13:11:001 коментар от alex16-11-2018 08:11:39" href="forums/viewtopic.php?t=4757">Ползване на едно фискално от 2 станции</a><br>    </div>
+  </div>
+  
+  <div id="footer">
+    <div id="devider" style="height:29px;"></div>
+    <div class="footer_left">
+        <table cellpadding="0" cellspacing="0" width="100%">
+        <tr><td align="right" valign="top" colspan="2">
+          <a href="/sitemap.php">Карта на сайта</a> &bull; <a href="/terms.php">Правен статус</a> &bull; <a href="http://invoices.unrealsoft.bg">Е-фактури</a> &bull; <a href="/mail/">E-mail</a> &bull; <a href="/forums/">Форум</a>
+        </td></tr>
+        <tr height="32" valign="bottom"><td nowrap style="padding-left: 110px;">Copyright &copy; 1994-2020 <span>UnrealSoft, Ltd.</span></td>
+        <td nowrap align="right" valign="bottom" style="font-size: 10px;">CSS template by <a href="http://www.templatemo.com/" target="_blank">templatemo.com</a>
+        </td></tr></table>
+	</div>
+  </div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-906062-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Този сайт използва т.н. “бисквитки”. Това гарантира правилно и по-добро обслужване.","dismiss":"Приемам!","learnMore":"Още инфо...","link":"/terms.php","theme":"light-floating"};
+</script>
+<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/2.0.0/cookieconsent.min.js"></script>
+  
+</div>
+</body>
+</html>
