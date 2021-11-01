@@ -2,28 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ec7e6d-5378-425f-a37b-e5ff0f3a21dc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP/dataclasses_two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/new_oop_method.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP/set_get_attr.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/code_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/code_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOP/code_two.py" beforeDir="false" afterPath="$PROJECT_DIR$/OOP/code_two.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/code1.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/code1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/code2.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/code2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/counter.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/counter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/filtering.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/filtering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/countdown_ex.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/countdown_ex.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/ex_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/ex_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/find_what_i_need.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/find_what_i_need.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/inside_for_test/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/inside_for_test/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/multi_list_to_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/multi_list_to_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/show_only_param_from_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/show_only_param_from_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/iterators_and_generators/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/iterators_and_generators/text.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/multi_dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/multi_dict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/nlargest_items.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/nlargest_items.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/some_tkinter/tk_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/some_tkinter/tk_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/work_with_csv/file_one.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/work_with_csv/file_one.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/work_with_csv/sample.csv" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/work_with_csv/sample.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/work_with_dates/convert_str_to_dattime.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/work_with_dates/convert_str_to_dattime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/work_with_dates/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/work_with_dates/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/anycode/work_with_text/split_text.py" beforeDir="false" afterPath="$PROJECT_DIR$/anycode/work_with_text/split_text.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +23,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1yJJzROoUCKk36MWIoPlyjJVg3t" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -55,7 +46,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.code_two">
+  <component name="RunManager" selected="Python.new_oop_method">
     <configuration name="code_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dataclasses_two" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/anycode/work_with_csv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anycode/work_with_csv/file_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/dataclasses_two.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="multi_list_to_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="new_oop_method" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/anycode/iterators_and_generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anycode/iterators_and_generators/multi_list_to_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/new_oop_method.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tk_one" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="set_get_attr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,12 +165,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/anycode/some_tkinter" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/anycode/some_tkinter/tk_one.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP/set_get_attr.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -190,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.new_oop_method" />
+        <item itemvalue="Python.set_get_attr" />
+        <item itemvalue="Python.dataclasses_two" />
         <item itemvalue="Python.code_two" />
         <item itemvalue="Python.code_one" />
-        <item itemvalue="Python.tk_one" />
-        <item itemvalue="Python.file_one" />
-        <item itemvalue="Python.multi_list_to_one" />
       </list>
     </recent_temporary>
   </component>
@@ -214,6 +205,8 @@
       <workItem from="1633603617979" duration="2839000" />
       <workItem from="1633618232354" duration="98000" />
       <workItem from="1633701876910" duration="43000" />
+      <workItem from="1635781073130" duration="23000" />
+      <workItem from="1635785925112" duration="3261000" />
     </task>
     <servers />
   </component>
@@ -233,17 +226,20 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/book$convert_str_to_dattime.coverage" NAME="convert_str_to_dattime Coverage Results" MODIFIED="1633359247556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_dates" />
     <SUITE FILE_PATH="coverage/book$file_one.coverage" NAME="file_one Coverage Results" MODIFIED="1633460420526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_csv" />
-    <SUITE FILE_PATH="coverage/book$split_text.coverage" NAME="split_text Coverage Results" MODIFIED="1633285383876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_text" />
     <SUITE FILE_PATH="coverage/book$tk_one.coverage" NAME="tk_one Coverage Results" MODIFIED="1633540779649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/some_tkinter" />
     <SUITE FILE_PATH="coverage/book$code_one.coverage" NAME="code_one Coverage Results" MODIFIED="1633604716830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/book$multi_list_to_one.coverage" NAME="multi_list_to_one Coverage Results" MODIFIED="1633451854975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
-    <SUITE FILE_PATH="coverage/book$code_two.coverage" NAME="code_two Coverage Results" MODIFIED="1633604747636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
-    <SUITE FILE_PATH="coverage/book$index.coverage" NAME="index Coverage Results" MODIFIED="1633285829031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_dates" />
+    <SUITE FILE_PATH="coverage/book$set_get_attr.coverage" NAME="set_get_attr Coverage Results" MODIFIED="1635787610649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/book$code_two.coverage" NAME="code_two Coverage Results" MODIFIED="1635786060652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
     <SUITE FILE_PATH="coverage/book$countdown_ex.coverage" NAME="countdown_ex Coverage Results" MODIFIED="1633363791085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
     <SUITE FILE_PATH="coverage/book$ex_one.coverage" NAME="ex_one Coverage Results" MODIFIED="1633363442971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
     <SUITE FILE_PATH="coverage/book$show_only_param_from_file.coverage" NAME="show_only_param_from_file Coverage Results" MODIFIED="1633449702456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
+    <SUITE FILE_PATH="coverage/book$dataclasses_two.coverage" NAME="dataclasses_two Coverage Results" MODIFIED="1635786769282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/book$convert_str_to_dattime.coverage" NAME="convert_str_to_dattime Coverage Results" MODIFIED="1633359247556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_dates" />
+    <SUITE FILE_PATH="coverage/book$split_text.coverage" NAME="split_text Coverage Results" MODIFIED="1633285383876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_text" />
+    <SUITE FILE_PATH="coverage/book$new_oop_method.coverage" NAME="new_oop_method Coverage Results" MODIFIED="1635788916848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OOP" />
+    <SUITE FILE_PATH="coverage/book$multi_list_to_one.coverage" NAME="multi_list_to_one Coverage Results" MODIFIED="1633451854975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
+    <SUITE FILE_PATH="coverage/book$index.coverage" NAME="index Coverage Results" MODIFIED="1633285829031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/work_with_dates" />
     <SUITE FILE_PATH="coverage/book$find_what_i_need.coverage" NAME="find_what_i_need Coverage Results" MODIFIED="1633450878021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/anycode/iterators_and_generators" />
   </component>
 </project>
