@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2ec7e6d-5378-425f-a37b-e5ff0f3a21dc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/factory_pattern_try/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_with_dates/current_date_and_more.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../desktop.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -207,7 +206,8 @@
       <workItem from="1635781073130" duration="23000" />
       <workItem from="1635785925112" duration="3584000" />
       <workItem from="1635791051029" duration="2703000" />
-      <workItem from="1635848501338" duration="2067000" />
+      <workItem from="1635848501338" duration="2253000" />
+      <workItem from="1635852592501" duration="10000" />
     </task>
     <servers />
   </component>
